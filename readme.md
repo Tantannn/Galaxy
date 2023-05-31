@@ -1,8 +1,15 @@
-# Three.js Journey
+# Three.js 
+
+A side project made with Three.js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
+
+## Demo
+
+- Client [demo](https://galaxyfun.netlify.app/)
+
 
 ``` bash
 # Install dependencies (only the first time)
