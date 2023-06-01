@@ -10,6 +10,8 @@ Run this followed commands:
 
 - Client [demo](https://galaxyfun.netlify.app/)
 
+## Install
+
 
 ``` bash
 # Install dependencies (only the first time)
